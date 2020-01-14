@@ -1,20 +1,23 @@
-
 {
   "name": "react-native-protocal-view",
   "version": "1.0.0",
-  "description": "",
+  "description": "Show protocal to your customer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "protocal-view",
+    "component"
   ],
-  "author": "",
-  "license": "",
+  "author": "JeffreyCao<jeffreycao1024@gmail.com>",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
+    "react-native-windows": "0.41.0-rc.1",
+    "react-native-exit-app": "^1.1.0",
+    "react-native-modalbox": "^2.0.0",
+    "react-native-webview": "^8.0.3"
   }
 }

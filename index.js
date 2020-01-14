@@ -1,6 +1,1 @@
-
-import { NativeModules } from 'react-native';
-
-const { RNProtocalView } = NativeModules;
-
-export default RNProtocalView;
+export { default as ProtocalDlg } from './dlg';
