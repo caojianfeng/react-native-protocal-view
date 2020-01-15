@@ -2,10 +2,13 @@
 # react-native-protocal-view
 
 ## 安装
+```
+npm:
+$ npm install react-native-protocal-view --save
 
-`$ npm install react-native-protocal-view --save`
-`$ yarn add react-native-protocal-view`
-
+yarn:
+$ yarn add react-native-protocal-view
+```
 ## 使用
 
 ### 效果
