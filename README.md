@@ -106,4 +106,7 @@ const styles = StyleSheet.create({
 
 ```
 ## 示例：
-[protocal_view_demo](https://github.com/caojianfeng/protocal_view_demo) 
+[protocal_view_demo](https://github.com/caojianfeng/protocal_view_demo)
+
+## 参考：
+[React-Native 中的组件化开发实战](https://caojianfeng.com/2020/01/11/react-native-component-developing/) 
