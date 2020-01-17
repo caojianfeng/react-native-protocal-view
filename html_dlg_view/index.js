@@ -29,7 +29,7 @@ export default class HtmlDlgView extends Component {
         </Text>
         <WebView
           style={styles.content}
-          source={{ html: protocalHtml }}
+          source={{ html: protocalHtml, baseUrl: '' }}
           scalesPageToFit
         />
         <View style={styles.bottom_bar}>
